@@ -1,1 +1,2 @@
-hello world. This is first changes I make.
+Things are going really bravo. I am just loving git.
+
