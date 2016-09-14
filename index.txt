@@ -1,0 +1,9 @@
+<html>
+	<body>
+
+<p> This is the testing body of the index file.
+THis is again a testting system.
+
+Hello agaian. I am checking things here.
+		</body>
+<html>
